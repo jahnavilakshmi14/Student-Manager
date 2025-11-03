@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "id": 1762159552243,
+      "name": "Jahnavi Lakshmi",
+      "email": "ramisettijahnavi@gmail.com",
+      "course": "java"
+    },
+    {
+      "id": 1762159723308,
+      "name": "jahnavi",
+      "email": "jahnavi@gmail.com",
+      "course": "java"
+    },
+    {
+      "id": 1762159742131,
+      "name": "roshini",
+      "email": "roshini@gmail.com",
+      "course": "full stack"
+    },
+    {
+      "id": 1762159767410,
+      "name": "sony",
+      "email": "sony@gmail.com",
+      "course": "UI/UX"
+    },
+    {
+      "id": 1762159798147,
+      "name": "bhavani",
+      "email": "bhavani@gmail.com",
+      "course": "AWS"
+    }
+  ]
+}
